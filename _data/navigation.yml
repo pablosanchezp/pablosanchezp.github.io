@@ -1,0 +1,21 @@
+- name: <span>A</span>bout me
+  link: /
+  icon: person
+- name: <span>CV</span>
+  link: /cv
+  icon: work
+- name: <span>R</span>esearch
+  link: /research
+  icon: science
+- name: <span>P</span>ublications
+  link: /pubs
+  icon: menu_book
+#- name: Talks
+#  link: /talks
+#  icon: volume_up
+- name: <span>S</span>oftware
+  link: https://bitbucket.org/PabloSanchezP/
+  icon: computer
+- name: <span>C</span>ontact
+  link: /contact
+  icon: local_post_office

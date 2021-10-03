@@ -1,0 +1,118 @@
+- title: "On the effects of aggregation strategies for different groups of users in venue recommendation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: Information Processing & Management
+  volume: 58
+  issue: 5 
+  publisher: Elsevier
+  abstract: >+
+    "Suggesting new venues to be visited by a user in a specific city remains an interesting but challenging problem, partly because of the inherent high sparsity of the data available in location-based social networks (LSBNs). At the same time, in traditional recommender systems, in order to improve their performance in these sparse situations, different techniques have been proposed mainly by augmenting and aggregating the data available in different domains. In this paper, we address the problem of venue recommendation from a novel perspective: we propose two strategies to select a set of candidate cities in order to use their information when performing recommendations for the users in a specific (target) city. In this context, we categorize users into two different groups (tourists and locals) according to their movement patterns and analyze the potential biases in the recommendations received by each of these groups. We provide an experimental comparison of several recommendation algorithms in a temporal split, where we analyze two strategies to select cities and augment the available data: based on the number of interactions and based on the distance with respect to the target city. Our results show that, in general, extending the available data by proximity increases the performance of the majority of the tested recommenders in terms of relevance and coverage, with almost no change in novelty and diversity. We have found that those users belonging to the tourist group tend to obtain better results in terms of relevance. Furthermore, in general, tourists consistently exhibit different performance by some families of recommenders for other evaluation dimensions, evidencing a popularity bias in user behavior and raising potential fairness issues regarding the quality of the received recommendations. We investigate these aspects and provide methods to better understand the problem. We expect these results could provide readers with an overall picture of what can be achieved in a real-world environment."
+  keywords: 
+    - Venue recommendation
+    - Data augmentation
+    - Temporal evaluation
+    - Tourism
+    - User types
+    - Fairness
+  link: https://www.sciencedirect.com/science/article/pii/S0306457321001059?via%3Dihub
+  doi: https://doi.org/10.1016/j.ipm.2021.102609
+  date: September 2021
+  quality: 
+    - "JCR 2020: 6.222, 21/162 (Computer Science, Information Systems: Q1)."
+
+
+#############################################################################################################################################################################################################
+- title: "Applying reranking strategies to route recommendation using sequence-aware evaluation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: User Modeling and User-Adapted Interaction
+  volume: 30
+  publisher: Springer
+  pages: 659-725
+  abstract: >+
+    "Venue recommendation approaches have become particularly useful nowadays due to the increasing number of users registered in location-based social networks (LBSNs), applications where it is possible to share the venues someone has visited and establish connections with other users in the system. Besides, the venue recommendation problem has certain characteristics that differ from traditional recommendation, and it can also benefit from other contextual aspects to not only recommend independent venues, but complete routes or venue sequences of related locations. Hence, in this paper, we investigate the problem of route recommendation under the perspective of generating a sequence of meaningful locations for the users, by analyzing both their personal interests and the intrinsic relationships between the venues. We divide this problem into three stages, proposing general solutions to each case: First, we state a general methodology to derive user routes from LBSNs datasets that can be applied in as many scenarios as possible; second, we define a reranking framework that generate sequences of items from recommendation lists using different techniques; and third, we propose an evaluation metric that captures both accuracy and sequentiality at the same time. We report our experiments on several LBSNs datasets and by means of different recommendation quality metrics and algorithms. As a result, we have found that classical recommender systems are comparable to specifically tailored algorithms for this task, although exploiting the temporal dimension, in general, helps on improving the performance of these techniques; additionally, the proposed reranking strategies show promising results in terms of finding a trade-off between relevance, sequentiality, and distance, essential dimensions in both venue and route" recommendation tasks..
+  keywords: 
+    - Travel sequences
+    - Route recommendation
+    - Temporal evaluation
+    - Reranking
+  link: https://link.springer.com/article/10.1007%2Fs11257-020-09258-4
+  doi: https://doi.org/10.1007/s11257-020-09258-4
+  date: September 2020
+  quality: 
+    - "JCR 2020: 4.412, 5/23 (Computer Science and Cybernetics: Q1)."
+
+
+#############################################################################################################################################################################################################
+- title: "Time and sequence awareness in similarity metrics for recommendation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: Information Processing & Management
+  volume: 57
+  issue: 3
+  publisher: Elsevier
+  abstract: >+
+    Modeling the temporal context efficiently and effectively is essential to provide useful recommendations to users. In this work, we focus on improving neighborhood-based approaches where we integrate three different mechanisms to exploit temporal information. We first present an improved version of a similarity metric between users using a temporal decay function, then, we propose an adaptation of the Longest Common Subsequence algorithm to be used as a time-aware similarity metric, and we also redefine the neighborhood-based recommenders to be interpreted as ranking fusion techniques where the neighbor interaction sequence can be exploited by considering the last common interaction between the neighbor and the user.
+  keywords: 
+    - Recommender systems
+    - Time-aware
+    - Sequence
+    - Neighborhood
+    - Collaborative filtering
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0306457319307678?via%3Dihub
+  doi: https://doi.org/10.1016/j.ipm.2020.102228
+  date: May 2020
+  quality: 
+    - "JCR 2020: 6.222, 21/162 (Computer Science, Information Systems: Q1)."
+
+
+#############################################################################################################################################################################################################
+- title: "Building user profiles based on sequences for content and collaborative filtering"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: Information Processing & Management
+  volume: 56
+  issue: 1
+  pages: 192-211
+  publisher: Elsevier
+  abstract: >+
+    Modeling user profiles is a necessary step for most information filtering systems - such as recommender systems - to provide personalized recommendations. However, most of them work with users or items as vectors, by applying different types of mathematical operations between them and neglecting sequential or content-based information. Hence, in this paper we study how to propose an adaptive mechanism to obtain user sequences using different sources of information, allowing the generation of hybrid recommendations as a seamless, transparent technique from the system viewpoint. As a proof of concept, we develop the Longest Common Subsequence (LCS) algorithm as a similarity metric to compare the user sequences, where, in the process of adapting this algorithm to recommendation, we include different parameters to control the efficiency by reducing the information used in the algorithm (preference filter), to decide when a neighbor is considered useful enough to be included in the process (confidence filter), to identify whether two interactions are equivalent (δ-matching threshold), and to normalize the length of the LCS in a bounded interval (normalization functions). These parameters can be extended to work with any type of sequential algorithm. We evaluate our approach with several state-of-the-art recommendation algorithms using different evaluation metrics measuring the accuracy, diversity, and novelty of the recommendations, and analyze the impact of the proposed parameters. We have found that our approach offers a competitive performance, outperforming content, collaborative, and hybrid baselines, and producing positive results when either content- or rating-based information is exploited.
+  keywords: 
+    - Hybrid recommender systems
+    - Preference filtering
+    - Content-based filtering
+    - Collaborative filtering
+    - Longest Common Subsequence
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0306457318302735?via%3Dihub
+  doi: https://doi.org/10.1016/j.ipm.2018.10.003
+  date: January 2019
+  quality: 
+    - "JCR 2019: 4.787, 22/156 (Computer Science, Information Systems: <b>Q1</b>)."
+
+
+#############################################################################################################################################################################################################
+
+- title: "Collaborative filtering based on subsequence matching: A new approach"
+  authors:
+    - Alejandro Bellogín
+    - <b>Pablo Sánchez</b>
+  journal: Information Sciences
+  volume: 418
+  pages: 432-446
+  publisher: Elsevier
+  abstract: >+
+    Neighbourhood-based techniques, although very popular in recommendation systems, show different performance results depending on the specific parameters being used; besides the neighbourhood size, a critical component of these recommenders is the similarity metric. Therefore, by considering more information associated to the users – such as taking into account the ordering of the items as they were consumed or the whole interaction pattern between users and items – it should be possible to define more complete, and better performing, similarity metrics for collaborative filtering. In this paper, we propose a technique to compare users – also extendable to items –, working with them as sequences instead of vectors, hence enabling a new perspective to analyse the user behaviour by finding other users who have similar sequential patterns instead of focusing only on similar ratings in the items. We also compare our approach with other well-known techniques, showing comparable or better performance in terms of rating prediction, ranking evaluation, and novelty and diversity metrics. According to the results obtained, we believe there is still a lot of room for improvement, due to its generality and the good performance obtained by this technique.
+  keywords: 
+    - Collaborative Filtering
+    - User Similarity
+    - Longest Common Subsequence
+    - Interaction pattern
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0020025516312518?via%3Dihub
+  doi: https://doi.org/10.1016/j.ins.2017.08.016
+  date: December 2017
+  quality: 
+    - "JCR 2017: 4.305, 12/148 (Information Systems: Q1)."

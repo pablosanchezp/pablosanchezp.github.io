@@ -1,0 +1,40 @@
+- title: "A novel approach for venue recommendation using cross-domain techniques"
+  authors: 
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  workshop: Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning, (RecSysKTL 2018)
+  conference:  12th International Conference on Recommender Systems (RecSys 2018)
+  venue: Vancouver, Canada
+  date: August 2018
+  link: https://arxiv.org/pdf/1809.09864.pdf
+  abstract: "Finding the next venue to be visited by a user in a specific cityis an interesting, but challenging, problem. Different techniqueshave been proposed, combining collaborative, content, social, andgeographical signals; however it is not trivial to decide which tech-nique works best, since this may depend on the data density or theamount of activity logged for each user or item. At the same time,cross-domain strategies have been exploited in the recommendersystems literature when dealing with (very) sparse situations, suchas those inherently arising when recommendations are producedbased on information from a single city.In this paper, we address the problem of venue recommendationfrom a novel perspective: applying cross-domain recommenda-tion techniques considering each city as a different domain. Weperform an experimental comparison of several recommendationtechniques in a temporal split under two conditions: single-domain(only information from the target city is considered) and cross-domain (information from many other cities is incorporated intothe recommendation algorithm). For the latter, we have exploredtwo strategies to transfer knowledge from one domain to another:testing the target city and training a model with information of thekcities with more ratings or only using thekclosest cities.Our results show that, in general, applying cross-domain byproximity increases the performance of the majority of the recom-menders in terms of relevance. This is the first work, to the bestof our knowledge, where so many domains (eight) are combinedin the tourism context where a temporal split is used, and thus weexpect these results could provide readers with an overall pictureof what can be achieved in a real-world environment."
+
+
+#############################################################################################################################################################################################################
+- title: "Challenges on Evaluating Venue Recommendation Approaches: Position Paper"
+  authors: 
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  workshop: Workshop on Recommenders in Tourism, (RecTour 2018)
+  conference:  12th International Conference on Recommender Systems (RecSys 2018)
+  venue: Vancouver, Canada
+  date: August 2018
+  link: http://ceur-ws.org/Vol-2222/paper8.pdf
+  volume: 2222
+  pages: 37-40
+  abstract: "Recommender systems are widely used tools in a large number ofonline applications due to their ability to learn the tastes and needsof the users. Venue recommendation approaches have recently be-come particularly useful, and even though these techniques havecertain characteristics that differ from traditional recommendation,they deserve special attention from the research community due tothe increase on the number of applications using tourism informa-tion to perform venue suggestions. In particular, how to properlyevaluate (in an offline setting) this type of recommenders needsto be better analyzed, as they are normally evaluated using stan-dard evaluation methodologies, neglecting their unique features. Inthis paper, we discuss and propose some solutions to two specificaspects around this problem: how to deal with already interactedvenues in the test set and how to incorporate the sequence of vis-ited venues by the user when measuring the performance of analgorithm (i.e., in an evaluation metric)."
+
+#############################################################################################################################################################################################################
+- title: Revisiting Neighbourhood-Based Recommenders For Temporal Scenarios
+  authors: 
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  workshop: 1st Workshop on Temporal Reasoning in Recommender Systems (RecTemp 2017)
+  conference:  11th International Conference on Recommender Systems (RecSys 2017)
+  venue: Como, Italy
+  date: August 2017
+  link: ceur-ws.org/Vol-1922/paper8.pdf
+  volume: 1922
+  pages: 40-44
+  abstract: Modelling the temporal context efficiently and effectively is essen-tial to provide useful recommendations to users. Methods suchas matrix factorisation and Markov chains have been combinedrecently to model the temporal preferences of users in a sequentialbasis. In this work, we focus on Neighbourhood-based Collabo-rative Filtering and propose a simple technique that incorporatesinteraction sequences when producing a personalised ranking. Weshow the efficiency of this method when compared against othersequence- and time-aware recommendation methods under twoclassical temporal evaluation methodologies.
+

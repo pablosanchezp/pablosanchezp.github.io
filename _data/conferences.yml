@@ -1,0 +1,137 @@
+- title: "Discovering Related Users in Location-based Social Networks"
+  authors:
+    - Sergio Torrijos
+    - Alejandro Bellogín
+    - <b>Pablo Sánchez</b>
+  conference: 28th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2020)
+  venue: Online
+  date: July 2020
+  pages: 353-357
+  publisher: ACM
+  abstract: >+
+    Users from Location-Based Social Networks can be characterised by how and where they move. However, most of the works that exploit this type of information neglect either its sequential or its geographical properties. In this article, we focus on a specific family of recommender systems, those based on nearest neighbours; we define related users based on common check-ins and similar trajectories and analyse their effects on the recommendations. For this purpose, we use a real-world dataset and compare the performance on different dimensions against several state-of-the-art algorithms. The results show that better neighbours could be discovered with these approaches if we want to promote novel and diverse recommendations.
+  keywords: 
+    - location-based social networks
+    - neighbours
+    - trajectory similarity
+  link: https://dl.acm.org/doi/abs/10.1145/3340631.3394882
+  doi: https://doi.org/10.1145/3340631.3394882
+  quality: 
+    - "CORE 2020: rank B"
+    - "GGS 2018: class 3, rating B"
+
+#############################################################################################################################################################################################################
+
+- title: "Attribute-based evaluation for recommender systems: incorporating user and item attributes in evaluation metrics"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  conference: 13th ACM Conference on Recommender Systems, (RecSys 2019)
+  venue: Copenhagen, Denmark
+  date: September 2019
+  pages: 378-382
+  publisher: ACM
+  abstract: >+
+    Research in Recommender Systems evaluation remains critical to study the efficiency of developed algorithms. Even if different aspects have been addressed and some of its shortcomings - such as biases, robustness, or cold start - have been analyzed and solutions or guidelines have been proposed, there are still some gaps that need to be further investigated. At the same time, the increasing amount of data collected by most recommender systems allows to gather valuable information from users and items which is being neglected by classical offline evaluation metrics. In this work, we integrate such information into the evaluation process in two complementary ways: on the one hand, we aggregate any evaluation metric according to the groups defined by the user attributes, and, on the other hand, we exploit item attributes to consider some recommended items as surrogates of those interacted by the user, with a proper penalization. Our results evidence that this novel evaluation methodology allows to capture different nuances of the algorithms performance, inherent biases in the data, and even fairness of the recommendations.
+  keywords: 
+    - Top-N Recommendation
+    - Evaluation
+    - RankingMetrics
+    - Relevance
+  link: https://dl.acm.org/doi/pdf/10.1145/3298689.3347049
+  doi: https://doi.org/10.1145/3298689.3347049
+  quality: 
+    - "CORE 2018: rank B"
+    - "GGS 2018: class 2, rating A-"
+
+
+#############################################################################################################################################################################################################
+
+- title: "Exploiting contextual information for recommender systems oriented to tourism"
+  authors:
+    - <b>Pablo Sánchez</b>
+  conference: 13th ACM Conference on Recommender Systems, (RecSys 2019)
+  venue: Copenhagen, Denmark
+  date: September 2019
+  pages: 601-605
+  publisher: ACM
+  abstract: >+
+    The use of contextual information like geographic, temporal (including sequential), and item features in Recommender Systems has favored their development in several different domains such as music, news, or tourism, together with new ways of evaluating the generated suggestions. This paper presents the underlying research in a PhD thesis introducing some of the fundamental considerations of the current tourism-based models, emphasizing the Point-Of-Interest (POI) problem, while proposing solutions using some of these additional contexts to analyze how the recommendations are made and how to enrich them. At the same time, we also intend to redefine some of the traditional evaluation metrics using contextual information to take into consideration other complementary aspects beyond item relevance. Our preliminary results show that there is a noticeable popularity bias in the POI recommendation domain that has not been studied in detail so far; moreover, the use of contextual information (such as temporal or geographical) help us both to improve the performance of recommenders and to get better insights of the quality of provided suggestions.
+  keywords: 
+    - RecommenderSystems
+    - Point-Of-Interest recommendation
+    - Contextual Information
+    - Evaluation
+  link: https://dl.acm.org/doi/10.1145/3298689.3347062
+  doi: https://doi.org/10.1145/3298689.3347062
+  quality: 
+    - "CORE 2018: rank B"
+    - "GGS 2018: class 2, rating A-"
+
+#############################################################################################################################################################################################################
+
+- title: "Applying Subsequence Matching to Collaborative Filtering: Extended Abstract"
+  authors:
+    - Alejandro Bellogín
+    - <b>Pablo Sánchez</b>
+  conference: 5th Spanish Conference on Information Retrieval, (CERI 2018)
+  venue: Zaragoza, Spain
+  date: June 2018    
+  pages: 5:1-5:2
+  publisher: ACM
+  abstract: >+
+    Neighbourhood-based approaches, although they are one of the most popular strategies in the recommender systems area, continue using classic similarities that leave aside the sequential information of the users interactions. In this extended abstract, we summarise the main contributions of our previous work where we proposed to use the Longest Common Subsequence algorithm as a similarity measure between users, by adapting it to the recommender systems context and proposing a mechanism to transform users interactions into sequences. Furthermore, we also introduced some modifications on the original LCS algorithm to allow non-exact matchings between users and to bound the similarities obtained in the [0,1] interval. Our reported results showed that our LCS-based similarity was able to outperform different state-of-the-art recommenders in two datasets in both ranking and novelty and diversity metrics.
+  link: https://dl.acm.org/doi/10.1145/3230599.3230605
+  doi: https://doi.org/10.1145/3230599.3230605
+
+#############################################################################################################################################################################################################
+
+- title: "Time-Aware Novelty Metrics for Recommender Systems"
+  authors:
+    - <b>Pablo Sánchez</b>  
+    - Alejandro Bellogín    
+  conference: 40th European Conference on {IR} Research, (ECIR 2018)
+  venue: Grenoble, France
+  date: March 2018    
+  pages: 357-370
+  publisher: Springer
+  abstract: >+
+    Time-aware recommender systems is an active research area where the temporal dimension is considered to improve the effectiveness of the recommendations. Even though performance evaluation is dominated by accuracy-related metrics – such as precision or NDCG –, other properties of the recommended items like their novelty and diversity have attracted attention in recent years, where several metrics have been defined with this goal in mind. However, it is unclear how suitable these metrics are to measure novelty or diversity in temporal contexts. In this paper, we propose a formulation to capture the time-aware novelty (or freshness) of the recommendation lists, according to different time models of the items. Hence, we provide a measure to account for how much a system is promoting fresh items in its recommendations. We show that time-aware recommenders tend to provide more fresh items, although this is not always the case, depending on statistical biases and patterns inherent to the data. Our results, nonetheless, indicate that the proposed formulation can be used to extend the knowledge about what items are being suggested by any recommendation technique aiming to exploit temporal contexts.
+  link: https://link.springer.com/chapter/10.1007%2F978-3-319-76941-7_27
+  doi: https://doi.org/10.1007/978-3-319-76941-7_27
+  quality: 
+    - "CORE 2018: rank A"
+    - "GGS 2018: class 2, rating A-"
+
+#############################################################################################################################################################################################################
+
+- title: "Studying the Effect of Data Structures on the Efficiency of Collaborative Filtering Systems"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+    - Iván Cantador
+  conference: 4th Spanish Conference on Information Retrieval, (CERI 2016)
+  venue: Granada, Spain
+  date: June 2016   
+  pages: 8
+  publisher: ACM
+  abstract: >+
+    Recommender systems is an active research area where the major focus has been on how to improve the quality of generated recommendations, but less attention has been paid on how to do it in an efficient way. This aspect is increasingly important because the information to be considered by recommender systems is growing exponentially. In this paper we study how different data structures affect the performance of these systems. Our results with two public datasets provide relevant insights regarding the optimal data structures in terms of memory and time usages. Specifically, we show that classical data structures like Binary Search Trees and Red-Black Trees can beat more complex and popular alternatives like Hash Tables.
+  link: https://dl.acm.org/doi/10.1145/2934732.2934747
+  doi: https://doi.org/10.1145/2934732.2934747
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############################################################################################################################################################################################################
