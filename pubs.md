@@ -82,7 +82,7 @@ title: Publications
 	{% for pub in site.data.conferences %}
     {% capture thecycle %}{% cycle 'new-class-collapsible', '' %}{% endcapture %}
     <li>
-        <div class = "collapsible-header {{ thecycle }}" style="text-align:left"><i class="fa fa-plus"></i>
+        <div class = "collapsible-header {{ thecycle }}" style="text-align:left"><i class="fa fa-angle-down" data-toggle="collapse"></i>
 			<p style="margin-bottom:0px">{% for author in pub.authors %}
 				{% if forloop.last %}
 					{{ author }}.
@@ -161,7 +161,7 @@ title: Publications
 	{% for pub in site.data.workshops %}
     {% capture thecycle %}{% cycle 'new-class-collapsible', '' %}{% endcapture %}
     <li>
-        <div class = "collapsible-header {{ thecycle }}" style="text-align:left"><i class="fa fa-plus"></i>
+        <div class = "collapsible-header {{ thecycle }}" style="text-align:left"><i class="fa fa-angle-down" data-toggle="collapse"></i>
 			<p style="margin-bottom:0px">{% for author in pub.authors %}
 				{% if forloop.last %}
 					{{ author }}.
