@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 <div class="publications-div">
-<div class="big-title" style="align: left"><b>Research</b></div>
+<div class="big-title" style="align: left"><b><span>Res</span>earch</b></div>
 <hr class="solid">
 
 <div id="research-areas">

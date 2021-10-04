@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 <div class="publications-div">
-<div class="big-title" style="align: left"><b>Publications</b></div>
+<div class="big-title" style="align: left"><b><span>Pub</span>lications</b></div>
 <hr class="solid">
 <p class="normal-paragraph"> Find here a (hopefully) list of my publications including journals, conferences, and workshops in descending order</p>
 <hr>
@@ -12,7 +12,7 @@ title: Publications
 	{% for pub in site.data.journals %}
     {% capture thecycle %}{% cycle 'new-class-collapsible', '' %}{% endcapture %}
     <li>
-        <div class = "collapsible-header {{ thecycle }}" style="text-align:left;"><i class="fa fa-plus"></i>
+        <div class = "collapsible-header {{ thecycle }}" style="text-align:left;"><i class="fa fa-angle-down" data-toggle="collapse"></i>
 			<p style="margin-bottom:0px">{% for author in pub.authors %}
 				{% if forloop.last %}
 					{{ author }}.
@@ -187,12 +187,12 @@ title: Publications
 				{% endif %}
 			{% endif %}
 			{{ pub.venue }},
-			{{ pub.date }},
+			{{ pub.date }}
 			{% if pub.articleid %}
 				{{ pub.articleid }}
 			{% endif %}
 			{% if pub.pages %}
-				pp. {{ pub.pages }}.
+				, pp. {{ pub.pages }}.
 			{% else %}
 			.
 			{% endif %}

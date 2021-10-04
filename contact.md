@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <div class="publications-div">
-<div class="big-title" style="align: left;"><b>Contact information</b></div>
+<div class="big-title" style="align: left;"><b><span>Con</span>tact information</b></div>
 <hr class="solid">
 
 <div class="contact-info">

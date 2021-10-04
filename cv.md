@@ -7,7 +7,7 @@ title: CV
 
 
 <div class="publications-div">
-    <div class="big-title" style="align: left"><b>Curriculum vitae</b></div>
+    <div class="big-title" style="align: left"><b><span>Cur</span>riculum vitae</b></div>
     <hr class="solid">
     <p class="normal-paragraph">You can download a PDF version of different versions of my CV here:</p>
     <div class="about-important-sc">

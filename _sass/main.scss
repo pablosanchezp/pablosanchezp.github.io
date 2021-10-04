@@ -9,7 +9,7 @@ body
 
 .normal-paragraph{
     font-family: 'Source Sans Pro', sans-serif;
-	font-size: 60%;
+	font-size: 80%;
 }
 
 .left{
@@ -391,6 +391,14 @@ header, main, footer
     padding: 16px;
 }
 
+a {
+  //color: #40404F;
+  color: black;
+  font-weight: 900;
+}
+
+
+
 .card__title 
 {
     -moz-osx-font-smoothing: grayscale;
@@ -450,6 +458,7 @@ header, main, footer
 .div-contact{
     width:100%; 
     margin-top:1%;
+    word-wrap: break-word;
 }
 
 .my-card 
@@ -931,9 +940,13 @@ ul.dashed > li:before {
 }
 
 .big-title {
-    font-size:150%;
-    color: #00A388;
+    font-size:140%;
+    color: black;
     letter-spacing:0.001px;
+}
+
+.big-title span {
+    color:#00A388;
 }
 
 .less-title {
