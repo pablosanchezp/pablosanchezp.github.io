@@ -4,7 +4,7 @@ body { background-color: #FDFDFD; font-family: 'Source Sans Pro', sans-serif; fo
 
 .left { text-align: left; }
 
-p { font-size: 16px; }
+p { font-size: 18px; }
 
 ul, ol { font-size: 16px; }
 
@@ -115,7 +115,7 @@ a { color: #005144; }
 
 .contact-card-right { margin-left: 50px; border-left: 1px solid #ccc; padding-left: 10px; }
 
-.div-contact { width: 100%; margin-top: 1%; word-wrap: break-word; }
+.div-contact { width: 100%; margin-top: 1%; word-wrap: break-word; overflow: hidden; }
 
 .my-card { display: block; margin-bottom: 16px; margin-left: 16px; margin-right: 16px; width: 20%; display: inline-block; }
 

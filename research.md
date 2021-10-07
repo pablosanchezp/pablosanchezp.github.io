@@ -63,7 +63,7 @@ title: Research
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys19/">(RecSys 2019).</a> 16 - 20 September 2019, Copenhague, Denmark</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys18/"> (RecSys 2018).</a> 2 - 7 October 2018, Vancouver, Canada</li>
                 <li><b>Attendee and lecturer </b> in Spanish Conference on Information Retrieval <a href="http://ceri2018.unizar.es/"> (CERI 2018).</a> 25 - 27 June 2018, Zaragoza, Spain</li>
-                <li><b>Attendee and lecturer </b> in European Conference on Information Retrieval <a href="http://www.ecir2018.org/"> (ECIR 2018.</a> 26 - 29 Mars 2018, Grenoble, France</li>
+                <li><b>Attendee and lecturer </b> in European Conference on Information Retrieval <a href="http://www.ecir2018.org/"> (ECIR 2018).</a> 26 - 29 Mars 2018, Grenoble, France</li>
             </ul>
         </div>
  </div>
