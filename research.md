@@ -91,7 +91,6 @@ title: Research
                 <li> <a href="https://www.springer.com/journal/40558/"> Information Technology & Tourism </a></li>
                 <li> <a href="https://www.springer.com/journal/41060"> International Journal of Data Science and Analytics </a></li>
                 <li> <a href="http://www.umuai.org/"> User Modeling and User-Adapted Interaction </a></li>
-
             </ul>
         </div>
  </div>
