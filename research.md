@@ -43,8 +43,8 @@ title: Research
             </ul>
         </div>
         <br>    <br>
-        <div class="about"> 
-            <ul> 
+        <div class="about">
+            <ul>
                 <li><b>Proyect name: <a href="https://mystreetbook.es/"> MyStreetBook </a> </b></li>
                 <li><b>Dates:</b> <em style="color:grey;">March 2017 - July 2017 </em></li>
                 <li><b>Funding:</b> Private</li>  
@@ -90,6 +90,8 @@ title: Research
                 <li> <a href="https://www.sciencedirect.com/journal/information-processing-and-management"> Information Processing and Management </a> </li>
                 <li> <a href="https://www.springer.com/journal/40558/"> Information Technology & Tourism </a></li>
                 <li> <a href="https://www.springer.com/journal/41060"> International Journal of Data Science and Analytics </a></li>
+                <li> <a href="http://www.umuai.org/"> User Modeling and User-Adapted Interaction </a></li>
+
             </ul>
         </div>
  </div>
