@@ -12,7 +12,7 @@ title: Contact
 </p>
 
 <div style="margin-top:5%">
-<div class="div-contact"> 
+<div class="div-contact">
 <a href="mailto:pablo.sanchezp@uam.es">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
@@ -26,7 +26,7 @@ title: Contact
 </a>
 </div>
 
-<div class="div-contact"> 
+<div class="div-contact">
 <a href="https://www.linkedin.com/in/pablosanchezperez/">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
@@ -41,7 +41,7 @@ title: Contact
 </div>
 
 
-<div class="div-contact"> 
+<div class="div-contact">
 <a href="https://dblp.org/pid/35/2658-1.html">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
@@ -55,7 +55,7 @@ title: Contact
 </a>
 </div>
 
-<div class="div-contact"> 
+<div class="div-contact">
 <a href="https://bitbucket.org/PabloSanchezP/">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
@@ -69,7 +69,7 @@ title: Contact
 </a>
 </div>
 
-<div class="div-contact"> 
+<div class="div-contact">
 <a href="https://scholar.google.ca/citations?user=EKhKMYwAAAAJ&hl=es">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
@@ -83,7 +83,21 @@ title: Contact
 </a>
 </div>
 
-<div class="div-contact"> 
+<div class="div-contact">
+<a href="https://publons.com/researcher/3121304/pablo-sanchez/">
+	<div class="mdc-card my-card">
+		<div class="contact-card-left">
+	 		<img src="/assets/img/publons-BW.png" />
+		</div>
+		<div class="contact-card-right">
+			<div class="card__title">Publons</div>
+			<div class="card__subhead">Pablo Sánchez</div>
+		</div>
+	</div>
+</a>
+</div>
+
+<div class="div-contact">
 <a href="https://orcid.org/0000-0003-1792-1706">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
