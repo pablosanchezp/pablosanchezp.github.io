@@ -58,7 +58,7 @@
   abstract: >+
     The use of contextual information like geographic, temporal (including sequential), and item features in Recommender Systems has favored their development in several different domains such as music, news, or tourism, together with new ways of evaluating the generated suggestions. This paper presents the underlying research in a PhD thesis introducing some of the fundamental considerations of the current tourism-based models, emphasizing the Point-Of-Interest (POI) problem, while proposing solutions using some of these additional contexts to analyze how the recommendations are made and how to enrich them. At the same time, we also intend to redefine some of the traditional evaluation metrics using contextual information to take into consideration other complementary aspects beyond item relevance. Our preliminary results show that there is a noticeable popularity bias in the POI recommendation domain that has not been studied in detail so far; moreover, the use of contextual information (such as temporal or geographical) help us both to improve the performance of recommenders and to get better insights of the quality of provided suggestions.
   keywords: 
-    - RecommenderSystems
+    - Recommender Systems
     - Point-Of-Interest recommendation
     - Contextual Information
     - Evaluation
@@ -67,6 +67,43 @@
   quality: 
     - "CORE 2018: rank B"
     - "GGS 2018: class 2, rating A-"
+
+#############################################################################################################################################################################################################
+
+- title: "Measuring anti-relevance: a study on when recommendation algorithms produce bad suggestions"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  conference: 12th ACM Conference on Recommender Systems, (RecSys 2018)
+  venue: Vancouver British Columbia, Canada
+  date: October 2018
+  pages: 367-371
+  publisher: ACM
+  abstract: >+
+    Typically, performance of recommender systems has been measured focusing on the amount of relevant items recommended to the users. However, this perspective provides an incomplete view of an algorithm's quality, since it neglects the amount of negative recommendations by equating the unknown and negatively interacted items when computing ranking-based evaluation metrics. In this paper, we propose an evaluation framework where anti-relevance is seamlessly introduced in several ranking-based metrics; in this way, we obtain a different perspective on how recommenders behave and the type of suggestions they make. Based on our results, we observe that non-personalized approaches tend to return less bad recommendations than personalized ones, however the amount of unknown recommendations is also larger, which explains why the latter tend to suggest more relevant items. Our metrics based on anti-relevance also show the potential to discriminate between algorithms whose performance is very similar in terms of relevance.
+  link: https://dl.acm.org/doi/10.1145/3240323.3240382
+  doi: https://doi.org/10.1145/3240323.3240382
+  quality: 
+    - "CORE 2018: rank B"
+    - "GGS 2018: class 2, rating A-"
+
+#############################################################################################################################################################################################################
+
+- title: "New approaches for evaluation: correctness and freshness: Extended Abstract"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Rus M. Mesas
+    - Alejandro Bellogín
+  conference: 5th Spanish Conference on Information Retrieval, (CERI 2018)
+  venue: Zaragoza, Spain
+  date: June 2018    
+  pages: 14:1-14:2
+  publisher: ACM
+  abstract: >+
+    The main goal of a Recommender System is to suggest relevant items to users, although other utility dimensions -- such as diversity, novelty, confidence, possibility of providing explanations -- are often considered. In this work, we study two dimensions that have been neglected so far in the literature: coverage and temporal novelty. On the one hand, we present a family of metrics that combine precision and coverage in a principled manner (correctness); on the other hand, we provide a measure to account for how much a system is promoting fresh items in its recommendations (freshness). Empirical results show the usefulness of these new metrics to capture more nuances of the recommendation quality.
+  link: https://dl.acm.org/doi/10.1145/3230599.3230614
+  doi: https://doi.org/10.1145/3230599.3230614
+
 
 #############################################################################################################################################################################################################
 
