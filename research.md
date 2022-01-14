@@ -10,10 +10,10 @@ title: Research
         <div class="less-title" style="align: left; font-size:24px; margin-top: 30px; margin-bottom: 30px;"><span>R</span>esearch Areas</div>
         <div class="about-important">
             <ul>
-                <li class="separate-li">Information Retrieval</li>
                 <li class="separate-li">Recommender Systems</li>
-                <li class="separate-li">Evaluation</li>
-                <li class="separate-li">Machine Learning</li>
+                <li class="separate-li">Ranking Evaluation</li>
+                <li class="separate-li">Information Retrieval</li>
+                <!-- <li class="separate-li">Machine Learning</li> -->
             </ul>
         </div>
  </div>
