@@ -1,3 +1,26 @@
+- title: "Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: ACM Computing Surveys
+  volume: 
+  issue: 
+  publisher: ACM
+  abstract: >+
+    "Point-of-Interest recommendation is an increasing research and developing area within the widely adopted technologies known as Recommender Systems. Among them, those that exploit information coming from Location-Based Social Networks (LBSNs) are very popular nowadays and could work with different information sources, which pose several challenges and research questions to the community as a whole. We present a systematic review focused on the research done in the last 10 years about this topic. We discuss and categorize the algorithms and evaluation methodologies used in these works and point out the opportunities and challenges that remain open in the field. More specifically, we report the leading recommendation techniques and information sources that have been exploited more often (such as the geographical signal and deep learning approaches) while we also alert about the lack of reproducibility in the field that may hinder real performance improvements."
+  keywords: 
+    - Information systems
+    - Retrieval models and ranking
+    - Recommender systems
+    - Retrieval efectiveness
+  link: https://dl.acm.org/doi/pdf/10.1145/3510409
+  doi: https://doi.org/10.1145/3510409
+  date: January 2022
+  quality: 
+    - "JCR 2020: <b>10.282, 4/110</b> (Computer Science, Theory & Methods: <b>Q1</b>)."
+
+
+##############################################################################################################################################
 - title: "On the effects of aggregation strategies for different groups of users in venue recommendation"
   authors:
     - <b>Pablo Sánchez</b>
