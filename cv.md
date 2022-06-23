@@ -262,7 +262,7 @@ title: CV
                     <div class="timeline-content">
                        <p>
                           <b>Specialization:</b> Computational Intelligence <br/>
-                          <b>Average Grade:</b> 9.05 / 10<br/> 
+                          <b>Average Grade:</b> 9.05 / 10<br/>
                           <b>Honor mentions in final Master's thesis named</b>: <a href="https://repositorio.uam.es/handle/10486/681053"> Exploiting Subsequence Matching in Recommender Systems. </a> <br/>
                       </p>
                     </div>
@@ -330,15 +330,21 @@ title: CV
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>G</span>rants, <span>S</span>cholarsips and <span>A</span>wards   </div>
         <div class="about">
                 <ul>
-                <li><b>Research scholarship in Masters studies</b></li>
-                <li><b>Dates:</b> <em style="color:grey;">September 2016</em></li>
-                <li><b>Institution:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
+                <li><b>Extraordinary doctoral award in the PhD program on Computer science and telecommunication engineering.</b></li>
+                <li><b>Dates:</b> <em style="color:grey;">2020/2021 academic year</em></li>
+                <li><b>Institution:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid</span></li>  
                 </ul>
                 <br>
                 <ul>
                 <li><b>2017 PhD scholarships of predoctoral contracts</b></li>
                 <li><b>Dates:</b> <em style="color:grey;">July 2018 - July 2022</em></li>
                 <li><b>Institution:</b> <span class="text-muted-sec">Ministerio de Ciencia e Innovación (cofunded by the European Social Fund)</span></li>  
+                </ul>
+                <br>
+                <ul>
+                <li><b>Research scholarship in Masters studies</b></li>
+                <li><b>Dates:</b> <em style="color:grey;">September 2016</em></li>
+                <li><b>Institution:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
                 </ul>
         </div>
         <a style="font-size:16px; margin-top:10px; margin-bottom:10px;" href="#index">Back to top</a>
