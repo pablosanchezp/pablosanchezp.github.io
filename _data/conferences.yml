@@ -1,3 +1,27 @@
+- title: "Travelers vs. Locals: The Effect of Cluster Analysis in Point-of-Interest Recommendation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Linus W. Dietz
+  conference: 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)
+  venue: Barcelona, Spain
+  date: July 2022
+  pages: 132–142
+  publisher: ACM
+  abstract: >+
+    The involvement of geographic information differentiates point-of-interest recommendation from traditional product recommendation. This geographic influence is usually manifested in the effect of users tending toward visiting nearby locations, but further mobility patterns can be used to model different groups of users. In this study, we characterize the check-in behavior of local and traveling users in a global Foursquare check-in data set. Based on the features that capture the mobility and preferences of the users, we obtain representative groups of travelers and locals through an independent cluster analysis. Interestingly, for locals, the mobility features analyzed in this work seem to aggravate the cluster quality, whereas these signals are fundamental in defining the traveler clusters. To measure the effect of such a cluster analysis when categorizing users, we compare the performance of a set of recommendation algorithms, first on all users together, and then on each user group separately in terms of ranking accuracy, novelty, and diversity. Our results on the Foursquare data set of 139,270 users in five cities show that locals, despite being the most numerous groups of users, tend to obtain lower values than the travelers in terms of ranking accuracy while these locals also seem to receive more novel and diverse POI recommendations. For travelers, we observe the advantages of popularity-based recommendation algorithms in terms of ranking accuracy, by recommending venues related to transportation and large commercial establishments. However, there are huge differences in the respective travelers groups, especially between predominantly domestic and international travelers. Due to the large influence of mobility on the recommendations, this article underlines the importance of analyzing user groups differently when making and evaluating personalized point-of-interest recommendations.
+  keywords:
+    - Point-of-Interest recommendation
+    - User Modeling
+    - Human mobility analysis
+    - Offline evaluation
+  link: https://dl.acm.org/doi/10.1145/3503252.3531320
+  doi: https://doi.org/10.1145/3503252.3531320
+  quality:
+    - "CORE 2021: rank B"
+    - "GGS 2021: class 3, rating B"
+
+###############################################################
+
 - title: "Discovering Related Users in Location-based Social Networks"
   authors:
     - Sergio Torrijos
@@ -10,13 +34,13 @@
   publisher: ACM
   abstract: >+
     Users from Location-Based Social Networks can be characterised by how and where they move. However, most of the works that exploit this type of information neglect either its sequential or its geographical properties. In this article, we focus on a specific family of recommender systems, those based on nearest neighbours; we define related users based on common check-ins and similar trajectories and analyse their effects on the recommendations. For this purpose, we use a real-world dataset and compare the performance on different dimensions against several state-of-the-art algorithms. The results show that better neighbours could be discovered with these approaches if we want to promote novel and diverse recommendations.
-  keywords: 
+  keywords:
     - location-based social networks
     - neighbours
     - trajectory similarity
   link: https://dl.acm.org/doi/abs/10.1145/3340631.3394882
   doi: https://doi.org/10.1145/3340631.3394882
-  quality: 
+  quality:
     - "CORE 2020: rank B"
     - "GGS 2018: class 3, rating B"
 
@@ -33,14 +57,14 @@
   publisher: ACM
   abstract: >+
     Research in Recommender Systems evaluation remains critical to study the efficiency of developed algorithms. Even if different aspects have been addressed and some of its shortcomings - such as biases, robustness, or cold start - have been analyzed and solutions or guidelines have been proposed, there are still some gaps that need to be further investigated. At the same time, the increasing amount of data collected by most recommender systems allows to gather valuable information from users and items which is being neglected by classical offline evaluation metrics. In this work, we integrate such information into the evaluation process in two complementary ways: on the one hand, we aggregate any evaluation metric according to the groups defined by the user attributes, and, on the other hand, we exploit item attributes to consider some recommended items as surrogates of those interacted by the user, with a proper penalization. Our results evidence that this novel evaluation methodology allows to capture different nuances of the algorithms performance, inherent biases in the data, and even fairness of the recommendations.
-  keywords: 
+  keywords:
     - Top-N Recommendation
     - Evaluation
     - RankingMetrics
     - Relevance
   link: https://dl.acm.org/doi/pdf/10.1145/3298689.3347049
   doi: https://doi.org/10.1145/3298689.3347049
-  quality: 
+  quality:
     - "CORE 2018: rank B"
     - "GGS 2018: class 2, rating A-"
 
@@ -57,14 +81,14 @@
   publisher: ACM
   abstract: >+
     The use of contextual information like geographic, temporal (including sequential), and item features in Recommender Systems has favored their development in several different domains such as music, news, or tourism, together with new ways of evaluating the generated suggestions. This paper presents the underlying research in a PhD thesis introducing some of the fundamental considerations of the current tourism-based models, emphasizing the Point-Of-Interest (POI) problem, while proposing solutions using some of these additional contexts to analyze how the recommendations are made and how to enrich them. At the same time, we also intend to redefine some of the traditional evaluation metrics using contextual information to take into consideration other complementary aspects beyond item relevance. Our preliminary results show that there is a noticeable popularity bias in the POI recommendation domain that has not been studied in detail so far; moreover, the use of contextual information (such as temporal or geographical) help us both to improve the performance of recommenders and to get better insights of the quality of provided suggestions.
-  keywords: 
+  keywords:
     - Recommender Systems
     - Point-Of-Interest recommendation
     - Contextual Information
     - Evaluation
   link: https://dl.acm.org/doi/10.1145/3298689.3347062
   doi: https://doi.org/10.1145/3298689.3347062
-  quality: 
+  quality:
     - "CORE 2018: rank B"
     - "GGS 2018: class 2, rating A-"
 
@@ -83,7 +107,7 @@
     Typically, performance of recommender systems has been measured focusing on the amount of relevant items recommended to the users. However, this perspective provides an incomplete view of an algorithm's quality, since it neglects the amount of negative recommendations by equating the unknown and negatively interacted items when computing ranking-based evaluation metrics. In this paper, we propose an evaluation framework where anti-relevance is seamlessly introduced in several ranking-based metrics; in this way, we obtain a different perspective on how recommenders behave and the type of suggestions they make. Based on our results, we observe that non-personalized approaches tend to return less bad recommendations than personalized ones, however the amount of unknown recommendations is also larger, which explains why the latter tend to suggest more relevant items. Our metrics based on anti-relevance also show the potential to discriminate between algorithms whose performance is very similar in terms of relevance.
   link: https://dl.acm.org/doi/10.1145/3240323.3240382
   doi: https://doi.org/10.1145/3240323.3240382
-  quality: 
+  quality:
     - "CORE 2018: rank B"
     - "GGS 2018: class 2, rating A-"
 
@@ -96,7 +120,7 @@
     - Alejandro Bellogín
   conference: 5th Spanish Conference on Information Retrieval, (CERI 2018)
   venue: Zaragoza, Spain
-  date: June 2018    
+  date: June 2018
   pages: 14:1-14:2
   publisher: ACM
   abstract: >+
@@ -113,7 +137,7 @@
     - <b>Pablo Sánchez</b>
   conference: 5th Spanish Conference on Information Retrieval, (CERI 2018)
   venue: Zaragoza, Spain
-  date: June 2018    
+  date: June 2018
   pages: 5:1-5:2
   publisher: ACM
   abstract: >+
@@ -125,18 +149,18 @@
 
 - title: "Time-Aware Novelty Metrics for Recommender Systems"
   authors:
-    - <b>Pablo Sánchez</b>  
-    - Alejandro Bellogín    
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
   conference: 40th European Conference on {IR} Research, (ECIR 2018)
   venue: Grenoble, France
-  date: March 2018    
+  date: March 2018
   pages: 357-370
   publisher: Springer
   abstract: >+
     Time-aware recommender systems is an active research area where the temporal dimension is considered to improve the effectiveness of the recommendations. Even though performance evaluation is dominated by accuracy-related metrics – such as precision or NDCG –, other properties of the recommended items like their novelty and diversity have attracted attention in recent years, where several metrics have been defined with this goal in mind. However, it is unclear how suitable these metrics are to measure novelty or diversity in temporal contexts. In this paper, we propose a formulation to capture the time-aware novelty (or freshness) of the recommendation lists, according to different time models of the items. Hence, we provide a measure to account for how much a system is promoting fresh items in its recommendations. We show that time-aware recommenders tend to provide more fresh items, although this is not always the case, depending on statistical biases and patterns inherent to the data. Our results, nonetheless, indicate that the proposed formulation can be used to extend the knowledge about what items are being suggested by any recommendation technique aiming to exploit temporal contexts.
   link: https://link.springer.com/chapter/10.1007%2F978-3-319-76941-7_27
   doi: https://doi.org/10.1007/978-3-319-76941-7_27
-  quality: 
+  quality:
     - "CORE 2018: rank A"
     - "GGS 2018: class 2, rating A-"
 
@@ -149,7 +173,7 @@
     - Iván Cantador
   conference: 4th Spanish Conference on Information Retrieval, (CERI 2016)
   venue: Granada, Spain
-  date: June 2016   
+  date: June 2016
   pages: 8
   publisher: ACM
   abstract: >+
