@@ -309,7 +309,7 @@ title: CV
         <div class="about">
             <ul>
                 <li><b>Subject: Analysis software and design </b></li>
-                <li><b>Dates:</b> <em style="color:grey;">January - May. 3 academic courses (2019, 2020 and 2021)</em></li>
+                <li><b>Dates:</b> <em style="color:grey;">January - May. 3 academic courses (2019, 2020, 2021, and 2022)</em></li>
                 <li><b>Location:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
                 <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Lab teaching </b></li>  
                 <li><b>Tasks:</b> Teaching Java language and UML class diagrams. 2nd Year of Grade on Computer Science/Grade on Computer Science and Mathematics.</li>
