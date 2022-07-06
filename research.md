@@ -60,6 +60,7 @@ title: Research
 <div class="less-title" style="align: left; font-size:24px; margin-top: 30px; margin-bottom: 30px;"><span>A</span>ttendance and Papers Presentation at Conferences</div>
         <div class="about-less">
              <ul class="dashed">
+                <li><b>Attendee and lecturer </b> in ACM Conference on User Modeling, Adaptation and Personalization <a href="https://www.um.org/umap2022/">(UMAP 2022).</a> 4 - 7 July 2022, Barcelona, Spain</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys19/">(RecSys 2019).</a> 16 - 20 September 2019, Copenhague, Denmark</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys18/"> (RecSys 2018).</a> 2 - 7 October 2018, Vancouver, Canada</li>
                 <li><b>Attendee and lecturer </b> in Spanish Conference on Information Retrieval <a href="http://ceri2018.unizar.es/"> (CERI 2018).</a> 25 - 27 June 2018, Zaragoza, Spain</li>
@@ -73,6 +74,7 @@ title: Research
 <div class="less-title" style="align: left; font-size:24px; margin-top: 30px; margin-bottom: 30px;"><span>P</span>rogram committee & Reviewer in Conferences/Workshops</div>
         <div class="about-less">
              <ul class="dashed">
+                <li><b>PC member </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys22/"> - RecSys 2022- </a>. Reproducibility Track.</li>
                 <li><b>Web chair </b> in 33rd ACM Conference on Hypertext and Social Media <a href="https://ht.acm.org/ht2022/">- HT' 2022 -. </a></li>
                 <li><b>PC member </b> in 3nd Workshop on Knowledge aware and Conversational Recommender Systems <a href="https://kars-workshop.github.io/2021/">- KaRS 2021 -. </a></li>
                 <li><b>PC member </b> in ACM RecSys Workshop on Recommenders in Tourism  <a href="https://web.ec.tuwien.ac.at/rectour21/"> - RecTour 2021 -. </a> </li>
