@@ -13,14 +13,14 @@ title: Contact
 
 <div style="margin-top:5%">
 <div class="div-contact">
-<a href="mailto:pablo.sanchezp@uam.es">
+<a href="mailto:psperez@icai.comillas.edu">
 	<div class="mdc-card my-card">
 		<div class="contact-card-left">
 	 		<img src="/assets/img/mail.png" />
 		</div>
 		<div class="contact-card-right">
 			<div class="card__title">E-mail</div>
-			<div class="card__subhead">pablo.sanchezp@uam.es</div>
+			<div class="card__subhead">psperez@icai.comillas.edu</div>
 		</div>
 	</div>
 </a>

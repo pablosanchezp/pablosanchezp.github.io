@@ -35,14 +35,56 @@ title: CV
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>P</span>rofessional Experience</div>
         <div class="container">
            <ul class="timeline">
+           <li>
+              <!-- begin timeline-time -->
+              <div class="timeline-time">
+                 <span class="time">Today</span>
+                 <span class="time">August 2022</span>
+              </div>
+              <div class="timeline-time-small">
+                 <span class="time">Today</span>
+                 <span class="time">08/2022</span>
+             </div>
+              <!-- end timeline-time -->
+              <!-- begin timeline-icon -->
+              <div class="timeline-icon">
+                 <a href="javascript:;">&nbsp;</a>
+              </div>
+              <!-- end timeline-icon -->
+              <!-- begin timeline-body -->
+              <div class="timeline-body">
+                 <div class="timeline-header">
+                    <span class="username"><span>A</span>ssistant Profesor</span>
+                    <br/>
+                    <span class="text-muted-sec">Department of Telematics and Computing, Universidad Pontificia de Comillas (ICAI-ICADE)</span>
+                 </div>
+                 <div class="timeline-content">
+                    <p>
+                       Research on Point-Of-Interest recommender systems. Fairness in recommendation. Information Retrieval.
+                    </p>
+                    <p>
+                       Teaching in Operating Systems, Python Programming, Databases, and data structures.
+                    </p>
+                 </div>
+              </div>
+             <!--<div class = "collapsible-header" style="text-align:left;"><i class="material-icons">expand_more</i>
+                 <p>Postdoctoral Researcher</p>
+                 <p>Universidad Autónoma de Madrid</p>
+             </div>
+             <div class = "collapsible-body abstract">
+             <span><b>Abstract: </b> What I did
+             </span>
+             </div>-->
+              <!-- end timeline-body -->
+           </li>
               <li>
                  <!-- begin timeline-time -->
                  <div class="timeline-time">
-                    <span class="time">Today</span>
+                    <span class="time">July 2022</span>
                     <span class="time">July 2021</span>
                  </div>
                  <div class="timeline-time-small">
-                    <span class="time">Today</span>
+                    <span class="time">07/2022</span>
                     <span class="time">07/2021</span>
                 </div>
                  <!-- end timeline-time -->
@@ -60,7 +102,7 @@ title: CV
                     </div>
                     <div class="timeline-content">
                        <p>
-                          Research on Point-Of-Interest recommender sytems. Fairness in recommendation. Information Retrieval.
+                          Research on Point-Of-Interest recommender systems. Fairness in recommendation. Information Retrieval.
                        </p>
                     </div>
                  </div>
