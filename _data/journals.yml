@@ -1,3 +1,25 @@
+- title: "Bias characterization, assessment, and mitigation in location-based recommender systems"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+    - Ludovico Boratto
+  journal: Data Mining and Knowledge Discovery Journal
+  volume:
+  issue:
+  publisher: Springer
+  abstract: >+
+    "Location-Based Social Networks stimulated the rise of services such as Location-based Recommender Systems. These systems suggest to users points of interest (or venues) to visit when they arrive in a specific city or region. These recommendations impact various stakeholders in society, like the users who receive the recommendations and venue owners. Hence, if a recommender generates biased or polarized results, this affects in tangible ways both the experience of the users and the providers’ activities. In this paper, we focus on four forms of polarization, namely venue popularity, category popularity, venue exposure, and geographical distance. We characterize them on different families of recommendation algorithms when using a realistic (temporal-aware) offline evaluation methodology while assessing their existence. Besides, we propose two automatic approaches to mitigate those biases. Experimental results on real-world data show that these approaches are able to jointly improve the recommendation effectiveness, while alleviating these multiple polarizations."
+  keywords:
+    - POI recommendation
+    - Bias Mitigation
+    - Polarization
+    - Temporal evaluation
+  link: https://link.springer.com/article/10.1007/s10618-022-00913-5
+  doi: https://doi.org/10.1007/s10618-022-00913-5
+  date: February 2023
+  quality:
+    - "JCR 2021: <b>5.406, 36/164</b> (Information Systems: <b>Q1</b>), <b>41/145</b> (Artificial Intelligence: <b>Q2</b>)."
+
 - title: "Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective"
   authors:
     - <b>Pablo Sánchez</b>
