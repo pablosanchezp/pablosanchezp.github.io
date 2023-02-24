@@ -16,20 +16,6 @@ title: CV
             <li>Spanish version: (<a href="assets/others/cvs/cv_short_spanish.pdf">short</a> and <a href="assets/others/cvs/cv_long_spanish.pdf">long</a>)</li>
             </ul>
         </div>
-    <!---
-    <div id="index">
-        <b>Index:</b>
-        <ul>
-            <li><a href="#professional">Professional experience</a></li>
-            <li><a href="#studies">Education</a></li>
-            <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#grants">Grants, scholarships and awards</a></li>
-            <li><a href="#skills">Technical skills</a></li>
-            <li><a href="#languages">Languages</a></li>
-            <li><a href="#other">Other activities</a></li>
-        </ul>
-    </div>
-    --->
     <hr class="solid">
     <div>
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>P</span>rofessional Experience</div>
@@ -349,6 +335,20 @@ title: CV
     <div id="teaching">
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>T</span>eaching</div>
         <div class="about">
+        <ul>
+            <li><b>Subject:</b> <u>Algorithms and data structures </u></li>
+            <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023)</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Lab teaching </b></li>  
+            <li><b>Tasks:</b> Teaching Python language, with data structures and classic algorithms. 1st Year of Grade on Mathematical Engineering and artificial intelligence.</li>
+        </ul>
+          <ul>
+              <li><b>Subject:</b> <u>Databases </u></li>
+              <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023)</em></li>
+              <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+              <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
+              <li><b>Tasks:</b> Teaching fundamentals of relational databases (SQL, normalization, relational algebra and calculus). Non relational databases (MongoDB, Redis, Neo4J). 2nd Year of Grade on Mathematical Engineering and artificial intelligence.</li>
+          </ul>
           <ul>
               <li><b>Subject:</b> <u>Programming </u></li>
               <li><b>Dates:</b> <em style="color:grey;">September - December. 1 academic courses (2022)</em></li>

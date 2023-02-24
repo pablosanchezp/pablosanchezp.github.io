@@ -5,7 +5,7 @@ title: Publications
 <div class="publications-div">
 <div class="big-title" style="align: left"><b><span>Pub</span>lications</b></div>
 <hr class="solid">
-<p class="normal-paragraph"> Find here a (hopefully) list of my publications including journals, conferences, and workshops in descending order</p>
+<p class="normal-paragraph"> Find here a (hopefully updated) list of my publications including journals, conferences, and workshops in descending order</p>
 <hr>
 <h5 class = "less-title"><span>J</span>ournals</h5>
 <ul class = "collapsible">
