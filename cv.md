@@ -382,6 +382,22 @@ title: CV
         </div>
         <a style="font-size:16px; margin-top:10px; margin-bottom:10px;" href="#index">Back to top</a>
     </div>
+	<div id="teaching">
+        <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>D</span>irected <span>B</span>achelor <span>T</span>hesis</div>
+        <div class="about">
+        <ul>
+            <li><b>Title:</b> <u><a href="https://abellogin.github.io/2021/JPF.pdf">Combinación de diferentes fuentes de datos en la recomendación de puntos de interés</a></u> <u><a href="https://github.com/pascuu7/TFG">(code)</a></u> </li>
+			<li><b>Student:</b> Jaime Pascual Francés</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2021/22</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        </div>
+        <a style="font-size:16px; margin-top:10px; margin-bottom:10px;" href="#index">Back to top</a>
+    </div>
+	
+	
+	
     <hr class="solid">
     <div id="grants">
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>G</span>rants, <span>S</span>cholarsips and <span>A</span>wards   </div>
