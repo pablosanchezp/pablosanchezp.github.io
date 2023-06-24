@@ -110,6 +110,22 @@ title: Contact
 	</div>
 </a>
 </div>
+
+<div class="div-contact">
+<a href="https://www.researchgate.net/profile/Pablo-Sanchez-32">
+	<div class="mdc-card my-card">
+		<div class="contact-card-left">
+	 		<img src="/assets/img/researchgate.svg" />
+		</div>
+		<div class="contact-card-right">
+			<div class="card__title">ResearchGate</div>
+			<div class="card__subhead">Pablo-Sanchez-32</div>
+		</div>
+	</div>
+</a>
+</div>
+
+
 </div>
 
 </div>
