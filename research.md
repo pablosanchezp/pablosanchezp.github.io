@@ -96,6 +96,7 @@ title: Research
                 <li> <a href="https://www.springer.com/journal/41060"> International Journal of Data Science and Analytics </a></li>
                 <li> <a href="http://www.umuai.org/"> User Modeling and User-Adapted Interaction </a></li>
                 <li> <a href="https://www.tandfonline.com/journals/tgei20"> Geocarto International </a></li>
+                <li> <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">IEEE Communications Magazine </a></li>
             </ul>
         </div>
  </div>
