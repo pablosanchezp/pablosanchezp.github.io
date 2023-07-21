@@ -392,12 +392,19 @@ title: CV
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
         </ul>
+        <ul>
+            <li><b>Title:</b> <u>Análisis de los efectos producidos en la combinación de diferentes fuentes de información en la recomendación de puntos de interés</u> <u><a href="https://github.com/beasicilia14/TfgSistemasRecomendacion">(code)</a></u> </li>
+			<li><b>Student:</b> Beatriz Sicilia Gómez</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2022/23</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
         </div>
         <a style="font-size:16px; margin-top:10px; margin-bottom:10px;" href="#index">Back to top</a>
     </div>
-	
-	
-	
+
+
+
     <hr class="solid">
     <div id="grants">
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>G</span>rants, <span>S</span>cholarsips and <span>A</span>wards   </div>
