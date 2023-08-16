@@ -74,6 +74,7 @@ title: Research
 <div class="less-title" style="align: left; font-size:24px; margin-top: 30px; margin-bottom: 30px;"><span>P</span>rogram committee & Reviewer in Conferences/Workshops</div>
         <div class="about-less">
              <ul class="dashed">
+                <li><b>PC member </b> in ACM RecSys Workshop on Recommenders in Tourism  <a href="https://workshops.ds-ifs.tuwien.ac.at/rectour23/"> - RecTour 2023 -. </a> </li>
                 <li><b>PC member </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys23/"> - RecSys 2023- </a></li>
                 <li><b>PC member </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys22/"> - RecSys 2022- </a>. Reproducibility Track.</li>
                 <li><b>Web chair </b> in 33rd ACM Conference on Hypertext and Social Media <a href="https://ht.acm.org/ht2022/">- HT' 2022 -. </a></li>
