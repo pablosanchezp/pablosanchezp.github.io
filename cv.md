@@ -410,6 +410,10 @@ title: CV
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>G</span>rants, <span>S</span>cholarsips and <span>A</span>wards   </div>
         <div class="about">
                 <ul>
+                <li><b>Outstanding Reviewer in <a href="https://recsys.acm.org/recsys-best-reviewers/">ACMRecSys</a>.</b></li>
+                <li><b>Dates:</b> <em style="color:grey;">2023</em></li>
+                </ul>
+                <ul>
                 <li><b>Extraordinary doctoral award in the PhD program on Computer science and telecommunication engineering.</b></li>
                 <li><b>Dates:</b> <em style="color:grey;">2020/2021 academic year</em></li>
                 <li><b>Institution:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid</span></li>  
