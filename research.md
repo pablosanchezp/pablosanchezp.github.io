@@ -99,7 +99,7 @@ title: Research
                 <li> <a href="https://www.tandfonline.com/journals/tgei20"> Geocarto International </a></li>
                 <li> <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">IEEE Communications Magazine </a></li>
                 <li> <a href="https://dl.acm.org/journal/tkdd">ACM Transactions on Knowledge Discovery from Data </a></li>
-
+				<li> <a href="https://www.springer.com/journal/11063">Neural Processing Letters </a></li>  
             </ul>
         </div>
  </div>
