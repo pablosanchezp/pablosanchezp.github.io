@@ -1,3 +1,22 @@
+- title: "Measuring and Mitigating Biases in Location-based Recommender Systems"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogin
+    - Ludovico Boratto
+  conference: Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA'24), I Congreso Español en Sistemas de Recomendación (SISREC)
+  venue: A Coruña, Spain
+  date: June 2024
+  pages: 615–617
+  abstract: >+
+      This article is a summary of the work published in the journal Data Mining and Knowledge Discovery. It presents an analysis of different types of biases and polarization measurements that affect the area of Point-Of-Interest recommendation. Our results evidence which state-of-the-art recommenders suffer from (venue or category) popularity bias, venue exposure polarization, and geographical distance polarization. We also propose a mitigation procedure to reduce these biases in the recommendations while maintaining a good performance in terms of relevance.
+  keywords:
+    - POI recommendation
+    - Bias mitigation
+    - Polarization
+    - Temporal Evaluation
+  link: https://caepia24.aepia.org/inicio_files/XX%20Caepia_2024_Actas_General.pdf
+
+
 - title: "Travelers vs. Locals: The Effect of Cluster Analysis in Point-of-Interest Recommendation"
   authors:
     - <b>Pablo Sánchez</b>
