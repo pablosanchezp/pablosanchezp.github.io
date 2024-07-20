@@ -1,3 +1,24 @@
+- title: "Toward Sustainability Optimization in Touristic Route Recommendation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  conference: The 16th FLINS Conference on Computational Intelligence in Decision and Control - The 19th ISKE Conference on Intelligence Systems and Knowledge Engineering
+  venue: Madrid, Spain
+  date: July 2024
+  pages: 9-16
+  publisher: ACM
+  abstract: >+
+    While route recommendation plays a vital role in digital tourism services, conventional methods tend to be inherently complex, as they need to consider several constraints at once: user preferences, geographical and scheduling information, etc. Besides, recent interests from society and institutions have motivated a greater emphasis on sustainability across multiple sectors, including tourism. This work proposes to use reranking techniques as a plain and efficient method to generate personalized routes for users while considering sustainable goals in the procedure. We believe that these results could lead to new research directions regarding sustainable route recommendation techniques.
+  keywords:
+    - Recommender Systems
+    - Route Recommendation
+    - Sustainability
+  link: https://www.worldscientific.com/doi/10.1142/9789811294631_0002
+  doi: https://doi.org/10.1142/9789811294631_0002
+  quality:
+    - "CORE 2023: rank N/A"
+    - "GGS 2023: class 3, rating C"
+
 - title: "Measuring and Mitigating Biases in Location-based Recommender Systems"
   authors:
     - <b>Pablo Sánchez</b>
