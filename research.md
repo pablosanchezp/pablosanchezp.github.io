@@ -60,7 +60,8 @@ title: Research
 <div class="less-title" style="align: left; font-size:24px; margin-top: 30px; margin-bottom: 30px;"><span>A</span>ttendance and Papers Presentation at Conferences</div>
         <div class="about-less">
              <ul class="dashed">
-               <li><b>Attendee and lecturer </b> in Conferencia de la Asociaci&oacute;n Espa&ntilde;ola para la Inteligencia Artificial <a href="https://caepia24.aepia.org/">(CAEPIA 2024).</a> 19 - 21 June 2022, A Coru&ntilde;a, Spain</li>
+             <li><b>Attendee and lecturer </b> in FLINS Conference on Computational Intelligence in Decision and Control - Conference on Intelligence Systems and Knowledge Engineering <a href="https://eventos.ucm.es/96182/detail/flins-iske-2024.html">(FLINS-ISKE 2024).</a> 16 - 20 July 2024, Madrid, Spain</li>
+               <li><b>Attendee and lecturer </b> in Conferencia de la Asociaci&oacute;n Espa&ntilde;ola para la Inteligencia Artificial <a href="https://caepia24.aepia.org/">(CAEPIA 2024).</a> 19 - 21 June 2024, A Coru&ntilde;a, Spain</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on User Modeling, Adaptation and Personalization <a href="https://www.um.org/umap2022/">(UMAP 2022).</a> 4 - 7 July 2022, Barcelona, Spain</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys19/">(RecSys 2019).</a> 16 - 20 September 2019, Copenhague, Denmark</li>
                 <li><b>Attendee and lecturer </b> in ACM Conference on Recommender Systems <a href="https://recsys.acm.org/recsys18/"> (RecSys 2018).</a> 2 - 7 October 2018, Vancouver, Canada</li>
