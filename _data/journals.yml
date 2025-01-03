@@ -1,11 +1,33 @@
+- title: "Understanding the influence of data characteristics on the performance of point-of-interest recommendation algorithms"
+  authors:
+    - Linus W. Dietz
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: Information Technology and Tourism
+  volume:
+  issue:
+  publisher: Springer
+  abstract: >+
+    "Point-of-interest (POI) recommendations are essential for travelers and the e-tourism business. They assist in decision-making regarding what venues to visit and where to dine and stay. While it is known that traditional recommendation algorithms’ performance depends on data characteristics like sparsity, popularity bias, and preference distributions, the impact of these data characteristics has not been systematically studied in the POI recommendation domain. To fill this gap, we extend a previously proposed explanatory framework by introducing new explanatory variables specifically relevant to POI recommendation. At its core, the framework relies on having subsamples with different data characteristics to compute a regression model, which reveals the dependencies between data characteristics and performance metrics of recommendation models. To obtain these subsamples, we subdivide a POI recommendation data set on New York City and measure the effect of these characteristics on different classical POI recommendation algorithms in terms of accuracy, novelty, and item exposure. Our findings confirm the crucial role of key data features like density, popularity bias, and the distribution of check-ins in POI recommendation. Additionally, we identify the significance of novel factors, such as user mobility and the duration of user activity. In summary, our work presents a generic method to quantify the influence of data characteristics on recommendation performance. The results not only show why certain POI recommendation algorithms excel in specific recommendation problems derived from a LBSN check-in data set in New York City, but also offer practical insights into which data characteristics need to be addressed to achieve better recommendation performance."
+  keywords:
+    - Point-of-interest recommendation
+    - Offile evaluation
+    - Regression analysis
+    - Data Characteristics
+  link: https://link.springer.com/article/10.1007/s40558-024-00304-0
+  doi: https://doi.org/10.1007/s40558-024-00304-0
+  date: January 2025
+  quality:
+    - "JCR 2023: <b>6.3, 16/140</b> (Hospitality, Leisure, Sport & Tourism: <b>Q1</b>)."
+
 - title: "Bias characterization, assessment, and mitigation in location-based recommender systems"
   authors:
     - <b>Pablo Sánchez</b>
     - Alejandro Bellogín
     - Ludovico Boratto
   journal: Data Mining and Knowledge Discovery Journal
-  volume:
-  issue:
+  volume: 38
+  issue: 6
   publisher: Springer
   abstract: >+
     "Location-Based Social Networks stimulated the rise of services such as Location-based Recommender Systems. These systems suggest to users points of interest (or venues) to visit when they arrive in a specific city or region. These recommendations impact various stakeholders in society, like the users who receive the recommendations and venue owners. Hence, if a recommender generates biased or polarized results, this affects in tangible ways both the experience of the users and the providers’ activities. In this paper, we focus on four forms of polarization, namely venue popularity, category popularity, venue exposure, and geographical distance. We characterize them on different families of recommendation algorithms when using a realistic (temporal-aware) offline evaluation methodology while assessing their existence. Besides, we propose two automatic approaches to mitigate those biases. Experimental results on real-world data show that these approaches are able to jointly improve the recommendation effectiveness, while alleviating these multiple polarizations."

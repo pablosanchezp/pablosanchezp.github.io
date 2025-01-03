@@ -6,7 +6,7 @@
   venue: Madrid, Spain
   date: July 2024
   pages: 9-16
-  publisher: ACM
+  publisher: World Scientific Publishing
   abstract: >+
     While route recommendation plays a vital role in digital tourism services, conventional methods tend to be inherently complex, as they need to consider several constraints at once: user preferences, geographical and scheduling information, etc. Besides, recent interests from society and institutions have motivated a greater emphasis on sustainability across multiple sectors, including tourism. This work proposes to use reranking techniques as a plain and efficient method to generate personalized routes for users while considering sustainable goals in the procedure. We believe that these results could lead to new research directions regarding sustainable route recommendation techniques.
   keywords:
