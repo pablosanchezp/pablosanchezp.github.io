@@ -1,3 +1,23 @@
+- title: "Smart imputation, better recommendations: improving traditional Point-of-Interest recommendation through data augmentation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+  journal: ACM Transactions on Intelligent Systems and Technology
+  volume:
+  issue:
+  publisher: ACM
+  abstract: >+
+    "Data sparsity is a persistent challenge in recommender systems, specially in specific domains like Point-of-Interest (POI) recommendation, where it significantly impacts model performance. While classical recommender systems have used various imputation and data augmentation mechanisms to address data sparsity, these methods have not been extensively explored in the POI recommendation domain. In this work, we propose a generic imputation framework to study the use of data augmentation techniques to generate synthetic check-ins and analyze their effects on the POI recommendation scenario. Our main goal is to enhance the performance of various traditional recommenders by increasing the training set interactions, considering specific characteristics of the domain, such as geographical information. We apply these techniques in six different cities from a global Foursquare check-in dataset, as well as in two additional cities from the Gowalla dataset, and a separate dataset from Yelp, ensuring a comprehensive evaluation across multiple data sources. Our imputation approach evidences improvements for most models. In several cases, these improvements exceeded 100% for ranking accuracy, measured in terms of nDCG, without considerably compromising novelty or diversity. Data and code is released at https://github.com/pablosanchezp/ImputationForPOIRecsys."
+  keywords:
+    - Point-Of-Interest
+    - Imputation
+    - Temporal evaluation
+  link: https://dl.acm.org/doi/10.1145/3744347
+  doi: https://doi.org/10.1145/3744347
+  date: June 2025
+  quality:
+    - "JCR 2023: <b>18/250</b> (Computer Science, Information Systems <b>Q1</b>), <b>27/197</b> (Computer Science, Artificial Intelligence <b>Q1</b>)"
+
 - title: "Understanding the influence of data characteristics on the performance of point-of-interest recommendation algorithms"
   authors:
     - Linus W. Dietz
