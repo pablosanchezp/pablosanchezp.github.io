@@ -337,14 +337,14 @@ title: CV
         <div class="about">
         <ul>
             <li><b>Subject:</b> <u>Algorithms and data structures </u></li>
-            <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023)</em></li>
+            <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023, 2025)</em></li>
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Lab teaching </b></li>  
             <li><b>Tasks:</b> Teaching Python language, with data structures and classic algorithms. 1st Year of Grade on Mathematical Engineering and artificial intelligence.</li>
         </ul>
           <ul>
               <li><b>Subject:</b> <u>Databases </u></li>
-              <li><b>Dates:</b> <em style="color:grey;">January - April. 2 academic courses (2023, 2024)</em></li>
+              <li><b>Dates:</b> <em style="color:grey;">January - April. 2 academic courses (2023, 2024, 2025)</em></li>
               <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
               <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
               <li><b>Tasks:</b> Teaching fundamentals of relational databases (SQL, normalization, relational algebra and calculus). Non relational databases (MongoDB, Redis, Neo4J). 2nd Year of Grade on Mathematical Engineering and artificial intelligence.</li>
@@ -358,7 +358,7 @@ title: CV
           </ul>
             <ul>
                 <li><b>Subject:</b> <u>Fundamentals of Operating Systems </u></li>
-                <li><b>Dates:</b> <em style="color:grey;">September - December. 2 academic courses (2022, 2023)</em></li>
+                <li><b>Dates:</b> <em style="color:grey;">September - December. 2 academic courses (2022, 2023, 2024)</em></li>
                 <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
                 <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
                 <li><b>Tasks:</b> Teaching fundamentals of Operating Systems (hardware architecture, processes, threads, schedulling, memory management,
@@ -386,17 +386,38 @@ title: CV
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>D</span>irected <span>B</span>achelor <span>T</span>hesis</div>
         <div class="about">
         <ul>
-            <li><b>Title:</b> <u><a href="https://abellogin.github.io/2021/JPF.pdf">Combinación de diferentes fuentes de datos en la recomendación de puntos de interés</a></u> <u><a href="https://github.com/pascuu7/TFG">(code)</a></u> </li>
-			<li><b>Student:</b> Jaime Pascual Francés</li>
-            <li><b>Dates:</b> <em style="color:grey;">Course 2021/22</em></li>
-            <li><b>Location:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
+            <li><b>Title:</b> <u>Desarrollo de estrategias de imputación de datos en la recomendación de puntos de interés</u></li>
+			      <li><b>Student:</b>  Antonio Mora Abós</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2024/25</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
+            <li><b>Title:</b> <u>Impacto de la Información Meteorológica en la recomendación de puntos de interés</u></li>
+			      <li><b>Student:</b>  Lucía Prado Fernández-Vega</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2024/25</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
+            <li><b>Title:</b> <u>Desarrollo de una librería en Python de sistemas de recomendación</u> <u><a href="https://github.com/CataRVS/RecommenderSystems">(code)</a></u> </li>
+			      <li><b>Student:</b>  Catalina Royo-Villanova Seguí</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2024/25</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
         </ul>
         <ul>
             <li><b>Title:</b> <u>Análisis de los efectos producidos en la combinación de diferentes fuentes de información en la recomendación de puntos de interés</u> <u><a href="https://github.com/beasicilia14/TfgSistemasRecomendacion">(code)</a></u> </li>
-			<li><b>Student:</b> Beatriz Sicilia Gómez</li>
+			      <li><b>Student:</b> Beatriz Sicilia Gómez</li>
             <li><b>Dates:</b> <em style="color:grey;">Course 2022/23</em></li>
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
+            <li><b>Title:</b> <u><a href="https://abellogin.github.io/2021/JPF.pdf">Combinación de diferentes fuentes de datos en la recomendación de puntos de interés</a></u> <u><a href="https://github.com/pascuu7/TFG">(code)</a></u> </li>
+			      <li><b>Student:</b> Jaime Pascual Francés</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2021/22</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Autónoma de Madrid </span></li>  
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
         </ul>
         </div>
