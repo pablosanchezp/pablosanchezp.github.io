@@ -42,7 +42,7 @@ title: CV
                  <div class="timeline-header">
                     <span class="username"><span>A</span>ssistant Professor</span>
                     <br/>
-                    <span class="text-muted-sec">Department of Telematics and Computing, Universidad Pontificia de Comillas (ICAI-ICADE)</span>
+                    <span class="text-muted-sec">Department of Telematics and Computing, Universidad Pontificia Comillas (ICAI-ICADE)</span>
                  </div>
                  <div class="timeline-content">
                     <p>
@@ -339,7 +339,7 @@ title: CV
             <li><b>Subject:</b> <u>Algorithms and data structures </u></li>
             <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023, 2025)</em></li>
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
-            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Lab teaching </b></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
             <li><b>Tasks:</b> Teaching Python language, with data structures and classic algorithms. 1st Year of Grade on Mathematical Engineering and artificial intelligence.</li>
         </ul>
           <ul>
@@ -407,7 +407,7 @@ title: CV
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
         </ul>
         <ul>
-            <li><b>Title:</b> <u>Análisis de los efectos producidos en la combinación de diferentes fuentes de información en la recomendación de puntos de interés</u> <u><a href="https://github.com/beasicilia14/TfgSistemasRecomendacion">(code)</a></u> </li>
+            <li><b>Title:</b> <u><a href="https://repositorio.comillas.edu/jspui/handle/11531/75453"> Análisis de los efectos producidos en la combinación de diferentes fuentes de información en la recomendación de puntos de interés</a></u> <u><a href="https://github.com/beasicilia14/TfgSistemasRecomendacion">(code)</a></u> </li>
 			      <li><b>Student:</b> Beatriz Sicilia Gómez</li>
             <li><b>Dates:</b> <em style="color:grey;">Course 2022/23</em></li>
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
