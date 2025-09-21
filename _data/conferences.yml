@@ -1,3 +1,21 @@
+- title: "Context Trails: A Dataset to Study Contextual and Route Recommendation"
+  authors:
+    - <b>Pablo Sánchez</b>
+    - Alejandro Bellogín
+    - José L. Jorro-Aragonesesa
+  conference: 19th ACM Conference on Recommender Systems, (RecSys 2025)
+  venue: Prague, Czech Republic
+  date: September 2025
+  pages: 716-725
+  publisher: ACM
+  abstract: >+
+    Recommender systems in the tourism domain are gaining increasing attention, yet the development of diverse recommendation tasks remains limited, largely due to the scarcity of public datasets. This paper introduces Context Trails, a novel dataset addressing this gap. Context Trails distinguishes itself by including not only user interactions with touristic venues, but also the itineraries (trails or routes) followed by users. Furthermore, it enriches existing item features (e.g., category, coordinates) with contextual attributes related to the interaction moment (e.g., weather) and the venue itself (e.g., opening hours). Beyond a detailed description of the dataset’s characteristics, we evaluate the performance of several baseline algorithms across three distinct recommendation tasks: classical recommendation, route recommendation, and contextual recommendation. We believe this dataset will foster further research and development of advanced recommender systems within the tourism domain. Dataset is available at https://zenodo.org/records/15855966; further code available at https://github.com/pablosanchezp/ContextTrailsExperiments.
+  link: https://dl.acm.org/doi/10.1145/3705328.3748151
+  doi: https://dl.acm.org/doi/10.1145/3705328.3748151
+  quality:
+    - "CORE 2023: rank A"
+    - "GGS 2021: class 2, rating A"
+
 - title: "Improving Novelty and Diversity of Nearest-Neighbors Recommendation by Exploiting Dissimilarities"
   authors:
     - <b>Pablo Sánchez</b>
