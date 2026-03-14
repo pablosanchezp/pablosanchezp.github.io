@@ -49,7 +49,7 @@ title: CV
                        Research on Point-Of-Interest recommender systems. Fairness in recommendation. Information Retrieval.
                     </p>
                     <p>
-                       Teaching in Operating Systems, Python Programming, Databases, and data structures.
+                       Teaching in Operating Systems, Python Programming, Databases, Algorithms and data structures.
                     </p>
                  </div>
               </div>
@@ -337,28 +337,28 @@ title: CV
         <div class="about">
         <ul>
             <li><b>Subject:</b> <u>Algorithms and data structures </u></li>
-            <li><b>Dates:</b> <em style="color:grey;">January - April. 1 academic courses (2023, 2025)</em></li>
+            <li><b>Dates:</b> <em style="color:grey;">January - April. 3 academic courses (2022-2023, 2024-2025, 2025-2026)</em></li>
             <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
             <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
             <li><b>Tasks:</b> Teaching Python language, with data structures and classic algorithms. 1st Year of Grade on Mathematical Engineering and artificial intelligence.</li>
         </ul>
           <ul>
               <li><b>Subject:</b> <u>Databases </u></li>
-              <li><b>Dates:</b> <em style="color:grey;">January - April. 2 academic courses (2023, 2024, 2025)</em></li>
+              <li><b>Dates:</b> <em style="color:grey;">January - April. 4 academic courses (2022-2023, 2023-2024, 2024-2025, 2025-2026)</em></li>
               <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
               <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
               <li><b>Tasks:</b> Teaching fundamentals of relational databases (SQL, normalization, relational algebra and calculus). Non relational databases (MongoDB, Redis, Neo4J). 2nd Year of Grade on Mathematical Engineering and artificial intelligence.</li>
           </ul>
           <ul>
               <li><b>Subject:</b> <u>Programming </u></li>
-              <li><b>Dates:</b> <em style="color:grey;">September - December. 1 academic courses (2022)</em></li>
+              <li><b>Dates:</b> <em style="color:grey;">September - December. 1 academic courses (2022-2023)</em></li>
               <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
               <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Lab teaching </b></li>  
               <li><b>Tasks:</b> Teaching Python language. 1st Year of Grade on Mathematical Engineering and artificial intelligence.</li>
           </ul>
             <ul>
                 <li><b>Subject:</b> <u>Fundamentals of Operating Systems </u></li>
-                <li><b>Dates:</b> <em style="color:grey;">September - December. 2 academic courses (2022, 2023, 2024)</em></li>
+                <li><b>Dates:</b> <em style="color:grey;">September - December. 4 academic courses (2022-2023, 2023-2024, 2024-2025, 2025-2026)</em></li>
                 <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
                 <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;">Theory & Lab teaching </b></li>  
                 <li><b>Tasks:</b> Teaching fundamentals of Operating Systems (hardware architecture, processes, threads, schedulling, memory management,
@@ -463,7 +463,7 @@ title: CV
                 <li><b>Software Development:</b> Pycharm, Eclipse, NetBeans, and Visual Studio (general purpose) PostgreSQL, SQLServer, and MySQL (database management).</li>
                 <li><b>Operating systems: </b> Microsoft Windows, GNU/Linux</li>
                 <li><b>Other software:</b> LaTeX, Microsoft Office, Libre Office.</li>
-                <li><b>Other skills:</b>Responsability, Commitment, Empathy, Motivation to learn, Organized.</li>         
+                <li><b>Other skills:</b> Responsability, Commitment, Empathy, Motivation to learn, Organized.</li>         
             </ul>
         </div>
         <a style="font-size:16px; margin-top:10px; margin-bottom:10px;" href="#index">Back to top</a>
@@ -487,6 +487,10 @@ title: CV
                 <ul>
                 <li><b>ANECA Certification - Private University Lecturer (Profesor Universidad Privada)</b> , National Agency for Quality Assessment and Accreditation <a href="https://aneca.sede.gob.es/">(ANECA)</a>.</li>
                 <li><b>Dates:</b> <em style="color:grey;">2022</em></li>
+                </ul>
+                <ul>
+                <li><b>ANECA Certification - Senior Lecturer (Profesor Titular de Universidad)</b> , National Agency for Quality Assessment and Accreditation <a href="https://aneca.sede.gob.es/">(ANECA)</a>.</li>
+                <li><b>Dates:</b> <em style="color:grey;">2026</em></li>
                 </ul>
 
         </div>
