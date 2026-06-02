@@ -1,3 +1,26 @@
+- title: "Point of Interest Recommendation: Pitfalls and Research Directions"
+  authors:
+    - Alejandro Bellogín
+    - Linus W. Dietz
+    - Francesco Ricci
+    - <b>Pablo Sánchez</b>
+  journal: ACM Transactions on Recommender Systems
+  volume:
+  issue:
+  publisher: ACM
+  abstract: >+
+    "Point of interest (POI) recommender systems (RSs) aim at enriching tourists’ visit experiences by suggesting context-dependent and preference-matching attractions and services at specific locations in a tourist destination, such as restaurants, parks, and cultural and historical attractions. Tourism, unlike some more common recommendation domains, such as music and video, requires a more structured and high-stakes decision process: tourists invest significant time, money, and effort to search, choose, and consume the selected POIs. Despite extensive research contributions in this area, based on our analysis of the relevant literature and our experience in designing, building, and testing POI RSs, we conclude that some fundamental issues of POI RSs are still unresolved, limiting the applicability of these systems in real-world scenarios. In this reflection article, we briefly summarize the research field and identify important pitfalls that challenge scientific progress and impact on businesses. To address these challenges, we outline research directions that may help move the field forward. Therefore, the first contribution of this reflection article is a critical assessment of the current state of the art on POI RSs, and the identification of key shortcomings in three main dimensions: users and system log datasets, recommendation algorithms, and system evaluation methods. We highlight critical limitations, such as the lack of standardized benchmark datasets, flawed assumptions in the problem definition and model design, and inadequate treatment of biases in user behavior learning and system performance. The second contribution is a structured research agenda that, starting from the identified issues, introduces important directions for future research related to multistakeholder design, context awareness, data collection, trustworthiness, novel interactions, and real-world evaluation. We offer the proposed research directions, while not being exhaustive, as a contribution to address the identified pitfalls of POI RSs."
+  keywords:
+    - Recommender Systems
+    - Tourism
+    - Data
+    - Evaluation
+    - Algorithms
+  link: https://dl.acm.org/doi/10.1145/3816430
+  doi: https://doi.org/10.1145/3816430
+  date: May 2026
+  quality:
+
 - title: "Smart imputation, better recommendations: improving traditional Point-of-Interest recommendation through data augmentation"
   authors:
     - <b>Pablo Sánchez</b>
