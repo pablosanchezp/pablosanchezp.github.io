@@ -386,6 +386,27 @@ title: CV
         <div class="less-title" style="align: left; margin-top: 30px; margin-bottom: 30px;"><span>D</span>irected <span>B</span>achelor <span>T</span>hesis</div>
         <div class="about">
         <ul>
+            <li><b>Title:</b> <u>Arquitectura Serverless Multiagente para la Gestión de Ensayos Clínicos Descentralizados.</u></li>
+			      <li><b>Student:</b>  María González Gómez</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2025/26</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
+            <li><b>Title:</b> <u>Evaluación de sistemas de recomendación empleando diferentes estrategias de evaluación.</u></li>
+			      <li><b>Student:</b>  María Carreño Nin de Cardona</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2025/26</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
+            <li><b>Title:</b> <u>Recomendación y visualización de rutas turísticas personalizadas mediante aplicación demodelos de IA.</u></li>
+			      <li><b>Student:</b>  David Tarrasa Puebla</li>
+            <li><b>Dates:</b> <em style="color:grey;">Course 2025/26</em></li>
+            <li><b>Location:</b> <span class="text-muted-sec">Universidad Pontificia Comillas </span></li>  
+            <li><b>Role:</b> <b style="color:grey; text-transform: uppercase; font-size: 90%;"></b> Mentor</li>  
+        </ul>
+        <ul>
             <li><b>Title:</b> <u>Desarrollo de estrategias de imputación de datos en la recomendación de puntos de interés</u></li>
 			      <li><b>Student:</b>  Antonio Mora Abós</li>
             <li><b>Dates:</b> <em style="color:grey;">Course 2024/25</em></li>
